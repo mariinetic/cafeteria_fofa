@@ -1,6 +1,6 @@
-# Cafeteria Fofo 🍰😺
+# Cafeteria 🍰😺
 
-Um joguinho fofo feito em Python com Pygame, onde você controla um gatinho que coleta deliciosos itens 
+Um joguinho feito em Python com Pygame, onde você controla um gatinho que coleta deliciosos itens 
 (bolo, sanduíche, sorvete, pudim e mais!) e ganha pontos.
 
 ## Como jogar
